@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nemanja</h1>
-<h3 align="center">A passionate frontend developer from Serbia</h3>
+<h3 align="center">
+ A passionate frontend developer from Serbia. After getting his bachelor's degree in computer science, he worked several companies–developing mostly web applications Also, he is accustomed to a distributed environment and working with remote clients using agile methodologies.
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 
