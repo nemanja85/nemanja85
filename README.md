@@ -1,4 +1,4 @@
-<h1 align="center">Hey, Nice to see you.</h1>
+<h1 align="center">Hey, nice to see you.</h1>
 <h3 align="center">
  I'm Nemanja a passionate front-end developer from Serbia. After getting his bachelor's degree in computer science, he worked for several companies developing mostly web applications. Also, he is accustomed to a distributed environment and working with remote clients using agile methodologies.
 </h3>
