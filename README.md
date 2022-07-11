@@ -1,4 +1,4 @@
-<h1 align="center">Hey, nice to see you.</h1>
+<h1 align="center">Hey nice to see you.</h1>
 <h3 align="center">
  I'm Nemanja a passionate front-end developer from Serbia. After getting his bachelor's degree in computer science, he worked for several companies developing mostly web applications. Also, he is accustomed to a distributed environment and working with remote clients using agile methodologies.
 </h3>
@@ -33,7 +33,7 @@
 <img align="left" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" />
 <img align="left" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" />
 
-<br><br>
+<br><br><br>
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nemanja85&hide=php,html,less,blade,hack&theme=tokyonight)
 
