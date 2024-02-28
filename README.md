@@ -38,6 +38,6 @@
 
 <br><br><br>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nemanja85&hide=php,html,less,blade,hack&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nemanja85&hide=html&theme=tokyonight)
 
 
