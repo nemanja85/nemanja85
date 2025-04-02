@@ -38,6 +38,6 @@ I'm an enthusiastic front-end developer based in Serbia. With a bachelor's degre
 
 <br><br><br>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nemanja85&hide=html&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nemanja85&theme=tokyonight)
 
 
