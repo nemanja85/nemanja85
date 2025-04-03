@@ -1,5 +1,5 @@
 <h1 align="center">Hey I'm Nemanja Mitic</h1>
-<h3 align="center">
+<h3>
 I'm an enthusiastic front-end developer based in Serbia. With a bachelor's degree in computer science, I've gained experience working for various companies, primarily focusing on web application development. I'm well-versed in distributed environments and adept at collaborating with remote clients using agile methodologies.
 </h3>
 
