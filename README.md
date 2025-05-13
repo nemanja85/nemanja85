@@ -1,6 +1,6 @@
 <h1 align="center">Hey I'm Nemanja Mitic</h1>
 <h3>
-I'm an enthusiastic front-end developer based in Serbia. With a bachelor's degree in computer science, I've gained experience working for various companies, primarily focusing on web application development. I'm well-versed in distributed environments and adept at collaborating with remote clients using agile methodologies.
+A passionate front-end developer located in Serbia with a BSc in Computer Science and bringing a wealth of experience in web application development from different companies. I enjoy the challenges of distributed environments and working closely with remote clients using Agile principles.
 </h3>
 
 <h3 align="left">Connect with me:</h3>
