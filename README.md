@@ -38,6 +38,5 @@ A passionate front-end developer located in Serbia with a BSc in Computer Scienc
 
 <br><br><br>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nemanja85&theme=codeSTACKr&layout=compact&langs_count=8)
 
 
