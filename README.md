@@ -26,7 +26,7 @@ A passionate front-end developer located in Serbia with a BSc in Computer Scienc
 <img align="left" alt="NextJS" width="25px" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png" />
 <br>
 <h4>Backend and Database:</h4>
-<img align="left" alt="Java" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="Php" width="45px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" />
 <img align="left" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="laravel" />
 <img align="left" alt="Mysql" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Redis"  width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" style="max-width: 100%;">
