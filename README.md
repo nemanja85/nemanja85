@@ -34,7 +34,7 @@ A passionate front-end developer located in Serbia with a BSc in Computer Scienc
 <br>
 <h4>Tools:</h4>
 <img align="left" width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" />
-<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="max-width: 100%;">
+
 <img align="left" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" />
 <img align="left" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" />
 
