@@ -121,7 +121,7 @@ I'm a **passionate front-end developer** based in **Serbia** with a **BSc in Com
 
 ---
 
-## 📊 GitHub Statistike
+## 📊 GitHub Statistics
 
 <div align="center">
   
