@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Nemanja Mitić
+# Hey, I'm Nemanja Mitic
 
 <div align="center">
   
