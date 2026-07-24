@@ -19,13 +19,20 @@
 ---
 
 ## 🧑‍💻 About Me
+Results-driven **Front-End Developer** with a **BSc** in Computer Science and over several years of experience delivering high-quality web applications. Based in **Serbia**, I've collaborated with cross-functional teams across multiple companies, ranging from startups to enterprise-level organizations. I specialize in building responsive, performant, and maintainable user interfaces with a strong focus on clean code and exceptional user experience.
 
-I'm a **passionate front-end developer** based in **Serbia** with a **BSc in Computer Science**. With extensive experience in web application development across multiple companies, I thrive in distributed environments and enjoy collaborating with remote clients using **Agile methodologies**.
+I thrive in **Agile** environments and have extensive experience working with distributed, remote teams across different time zones. I'm passionate about bridging the gap between design and technology, ensuring every pixel serves a purpose and every interaction feels intuitive.
 
-- 🌱 I’m constantly learning and exploring **new frontend technologies**
-- 👯 I’m looking to collaborate on **open-source projects**
-- 💬 Ask me about **Vue, React, TypeScript, and UI/UX**
-- ⚡ Fun fact: I love solving complex problems and creating pixel-perfect designs
+
+
+## 🎯 What I Bring to the Table
+**Front-End Expertise**: Deep knowledge of modern JavaScript frameworks — primarily Vue.js and React — with a strong command of TypeScript and Next.js
+
+**UI/UX Sensibility**: Keen eye for design details, accessibility, and creating seamless user journeys
+
+**Quality First**: Advocate for writing clean, testable, and scalable code with strong emphasis on code reviews, testing, and documentation
+
+**Agile Practitioner**: Comfortable working in Scrum and Kanban environments, with excellent communication skills and a proactive mindset
 
 ---
 
