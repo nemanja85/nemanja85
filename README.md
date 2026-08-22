@@ -106,9 +106,6 @@ I thrive in **Agile** environments and have extensive experience working with di
   <a href="https://git-scm.com/">
     <img src="https://skillicons.dev/icons?i=git" alt="Git" />
   </a>
-   <a href="https://github.com/features/actions">
-    <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" />
-  </a>
   <a href="https://www.docker.com/">
     <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
   </a>
