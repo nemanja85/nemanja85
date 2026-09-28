@@ -125,17 +125,6 @@ I thrive in **Agile** environments and have extensive experience working with di
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-  <!-- Graph aktivnosti -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nemanja85&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" width="90%" />
-
-</div>
-
----
-
 <div align="center">
   
   ### ✨ "Code is like humor. When you have to explain it, it's bad." – Cory House
